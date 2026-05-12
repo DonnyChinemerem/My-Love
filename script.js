@@ -1,0 +1,3 @@
+function openLetter(){
+    document.getElementById("letter").style.display = "block";
+}
